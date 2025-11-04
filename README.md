@@ -1,2 +1,2 @@
-# Project-I-GeneWise-Predictive-Modelling-for-Genetic-Disorders-
+# Project-I: GeneWise: Predictive Modelling for Genetic Disorders
 GeneWise is a machine learning-based genomics project that predicts an individual's genetic disorder risk by analyzing Single Nucleotide Polymorphism (SNP) data. It combines data preprocessing, statistical feature selection, predictive modeling, and explainable Al (XAl) to deliver an accurate and interpretable framework for precision healthcare.
