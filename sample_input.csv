@@ -1,0 +1,6 @@
+GeneSymbol,SNP_ID,Disease,AssociationWeight
+ZNF18,rs10852800,integumentary system cancer,1.0
+STK4,rs927000,integumentary system cancer,0.9
+AFG3L1P,rs4408545,integumentary system cancer,1.0
+HERC2,rs1129038,integumentary system cancer,0.7
+MC1R,rs3212346,integumentary system cancer,1.0
